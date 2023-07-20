@@ -1,0 +1,64 @@
+[
+{
+	"uri": "https://capyloon.org/quickstart/",
+	"title": "Quickstart",
+	"tags": [],
+	"description": "",
+	"content": "Quickstart Prep: pick a support device Currently. the __ is the recommonded platform for using Capyloon, but you can find other support platforms.\nInstall the installer Step 1: Step 2: Step 3: "
+},
+{
+	"uri": "https://capyloon.org/platforms/",
+	"title": "Platforms",
+	"tags": [],
+	"description": "",
+	"content": "Supported Platforms Capyloon development happens primarily on \u0026hellip;..\nLinux Android MacOSX Lorem Ipsum.\n"
+},
+{
+	"uri": "https://capyloon.org/packages/",
+	"title": "Packages",
+	"tags": [],
+	"description": "",
+	"content": "Available Packages  Nutria : This is Capyloon set of Web apps. If you are a front-end developer, you will find everything you need in this repository. api-daemon : Non standard apis exposed to the UI. The [contentmanager](https://github.com/capyloon/api-daemon/tree/main/services/contentmanager) service is specific to Capyloon, and provides the data management layer. B2G : Gonk based devices. The Pixel 3a and Android Generic System Images are currently supported.  Developing Apps Available Apps Desktop Lorem Ipsum.\n"
+},
+{
+	"uri": "https://capyloon.org/screenshots/",
+	"title": "Screenshots",
+	"tags": [],
+	"description": "",
+	"content": "Platform picker here (choose Mobile/Desktop)\ntodo: render a flex grid of all the images here\n"
+},
+{
+	"uri": "https://capyloon.org/development/architecture/",
+	"title": "Architecture",
+	"tags": [],
+	"description": "",
+	"content": "Development Bootstraping Building images Porting to new devices "
+},
+{
+	"uri": "https://capyloon.org/development/",
+	"title": "Development",
+	"tags": [],
+	"description": "",
+	"content": "Development Bootstraping Building images Porting to new devices "
+},
+{
+	"uri": "https://capyloon.org/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "There really shouldn\u0026rsquo;t be a divide between “native” and “web”. At least not in the way people build apps.\nHere\u0026rsquo;s the code for a button on 5 different platforms\n// Android \u0026lt;Button android:text=\u0026quot;I'm a button\u0026quot;\u0026gt; // iOS Button(\u0026quot;I'm a button\u0026quot;) // UWP (Windows) \u0026lt;Button content=\u0026quot;I'm a button\u0026quot; /\u0026gt; // Web \u0026lt;Button\u0026gt;I'm a button\u0026lt;/Button\u0026gt; And of these platforms, the web code can run any of these platforms. Because there are rendering engines browsers that work across all of them. It\u0026rsquo;s why people build with Electron.\nAnd if you can really draw anything with the web, target any platform, then why do we still need to learn all this platform-specific stuff?\nCapyloon is a web-first mobile operating system that takes lovable web technologies all the way to embedded hardware. It\u0026rsquo;s built in the open. Security is top of mind. And you can target it for a lot more than just phones.\n Lockscreen    Home Screen    Seriously, check out the UI code, it\u0026rsquo;s just HTML/CSS/JS.\nNow you’re probably thinking why?\nOpen The web, and mostly everything built around it, is open. It’s not a proprietary technology. From accessbility, localization and security, a bunch of people talk through these things.\nCapyloon is powered by Gecko (the thing that powers Firefox), and it\u0026rsquo;s out in the open.\nEasy to Develop You know how easy it is to build for the web? As easy as firing up your browser and editing some code.\nCapyloon is no different. Here\u0026rsquo;s the code for the lockscreen. Want to build experiences for AR glasses, a smartwatch, or even a doorbell, all it takes is some HTML/CSS.\nExperimental Okay, this is us dreaming. But this system has everything from the UI down to the hardware. That means we have so much room to experiment. To really think how devices are connected.\nPortable electronics don\u0026rsquo;t have to be a blackbox. In fact, we\u0026rsquo;re working on integrating\nTry it! Yes. It runs on actual devices. Here it is running on Pinephone and Librem 5.\nDesktop builds You can download the latest Debian package here.\nDevice builds You can download the latest image here.\nJoin Us Do we have it all figured out? Absolutely not. We can make things look better. We can make things\nWould we be upset if you took our code, closed-sourced it, and\nThe code is available on github. The main repositories are:\n Nutria : This is Capyloon set of Web apps. If you are a front-end developer, you will find everything you need in this repository. api-daemon : Non standard apis exposed to the UI. The contentmanager service is specific to Capyloon, and provides the data management layer. B2G : Gonk based devices. The Pixel 3a and Android Generic System Images are currently supported.  Feel free to join the discussion in our Matrix chat room, or to email us for any inquiry.\n"
+},
+{
+	"uri": "https://capyloon.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://capyloon.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

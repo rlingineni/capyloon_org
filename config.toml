@@ -4,6 +4,8 @@ title = 'Capyloon, Reclaim Your Web!'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
+publishDir = "docs"
+
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
