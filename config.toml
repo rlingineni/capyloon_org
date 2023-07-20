@@ -1,4 +1,4 @@
-baseURL = 'https://capyloon.org/'
+baseURL = "https://www.heyraviteja.com/capyloon_org"
 languageCode = 'en-us'
 title = 'Capyloon, Reclaim Your Web!'
 # Change the default theme to be use when building the site with Hugo
